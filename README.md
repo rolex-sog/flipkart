@@ -1,1 +1,4 @@
-# flipkart
+amazon
+shopping
+add cart
+sloping
